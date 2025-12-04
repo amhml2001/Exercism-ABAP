@@ -4,7 +4,7 @@
 3. ITAB Aggregation - Completed
 4. ITAB Combination - Completed
 5. ITAB Nesting - Completed
-6. Scrabble Score
+6. Scrabble Score - Completed
 7. Two Fer
 8. Reverse String
 9. High Scores
