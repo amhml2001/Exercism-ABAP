@@ -5,9 +5,9 @@
 4. ITAB Combination - Completed
 5. ITAB Nesting - Completed
 6. Scrabble Score - Completed
-7. Two Fer
-8. Reverse String
-9. High Scores
+7. Two Fer - Completed
+8. Reverse String - Completed
+9. High Scores - Completed
 10. Resistor Color
 11. Leap
 12. Grains
