@@ -9,8 +9,8 @@
 8. Reverse String - Completed
 9. High Scores - Completed
 10. Resistor Color - Completed
-11. Leap
-12. Grains
+11. Leap - Completed
+12. Grains - Completed
 13. Kindergarten Garden
 14. Clock
 15. Hamming
