@@ -39,5 +39,5 @@
 38. ETL
 39. Affine Cipher
 40. Difference of Squares
-41. Triangle
-42. RNA Transcription
+41. Triangle - Completed
+42. RNA Transcription - Completed
