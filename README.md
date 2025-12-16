@@ -1,16 +1,16 @@
 # Sumário
-1. Hello, World! - Completed
-2. ITAB Basics - Completed
-3. ITAB Aggregation - Completed
-4. ITAB Combination - Completed
-5. ITAB Nesting - Completed
-6. Scrabble Score - Completed
-7. Two Fer - Completed
-8. Reverse String - Completed
-9. High Scores - Completed
-10. Resistor Color - Completed
-11. Leap - Completed
-12. Grains - Completed
+1. Hello, World! **- Completed**
+2. ITAB Basics **- Completed**
+3. ITAB Aggregation **- Completed**
+4. ITAB Combination **- Completed**
+5. ITAB Nesting **- Completed**
+6. Scrabble Score **- Completed**
+7. Two Fer **- Completed**
+8. Reverse String **- Completed**
+9. High Scores **- Completed**
+10. Resistor Color **- Completed**
+11. Leap **- Completed**
+12. Grains **- Completed**
 13. Kindergarten Garden
 14. Clock
 15. Hamming
@@ -39,5 +39,5 @@
 38. ETL
 39. Affine Cipher
 40. Difference of Squares
-41. Triangle - Completed
-42. RNA Transcription - Completed
+41. Triangle **- Completed**
+42. RNA Transcription **- Completed**
