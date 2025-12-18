@@ -11,7 +11,7 @@
 10. Resistor Color **- Completed**
 11. Leap **- Completed**
 12. Grains **- Completed**
-13. Kindergarten Garden
+13. Kindergarten Garden **- Completed**
 14. Clock
 15. Hamming
 16. Atbash Cipher
