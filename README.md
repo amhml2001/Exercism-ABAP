@@ -43,6 +43,6 @@
 42. RNA Transcription **- Completed**
 43. Resistor Color Duo
 44. Resistor Color Trio
-45. Line Up
+45. Line Up **- Completed**
 46. Protein Translation
 47. Eliud's Eggs
