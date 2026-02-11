@@ -33,34 +33,38 @@ CLASS ZAMHCL_EXR_CLOCK IMPLEMENTATION.
 
 
   METHOD constructor.
-    DATA: h TYPE n LENGTH 2,
-          m TYPE n LENGTH 2.
+*    DATA: h TYPE n LENGTH 2,
+*          m TYPE n LENGTH 2.
+*
+*    DATA(aux) = hours.
+*    DATA(aux2) = minutes.
+*
+*    WHILE aux2 < 0.
+*      aux2 += 60.
+*      aux -= 1.
+*    ENDWHILE.
+*
+*    WHILE aux2 >= 60.
+*      aux2 -= 60.
+*      aux += 1.
+*    ENDWHILE.
+*
+*    WHILE aux < 0.
+*      aux += 24.
+*    ENDWHILE.
+*
+*    WHILE aux >= 24.
+*      aux -= 24.
+*    ENDWHILE.
+*
+*    h = aux.
+*    m = aux2.
+*
+*    time = |{ h }{ m }00|.
 
-    DATA(aux) = hours.
-    DATA(aux2) = minutes.
-
-    WHILE aux2 < 0.
-      aux2 += 60.
-      aux -= 1.
-    ENDWHILE.
-
-    WHILE aux2 >= 60.
-      aux2 -= 60.
-      aux += 1.
-    ENDWHILE.
-
-    WHILE aux < 0.
-      aux += 24.
-    ENDWHILE.
-
-    WHILE aux >= 24.
-      aux -= 24.
-    ENDWHILE.
-
-    h = aux.
-    m = aux2.
-
-    time = |{ h }{ m }00|.
+* COMO VIMOS NO MÉTODO DE ADICIONAR E SUBTRAIR, SE TRANSFORMARMOS
+* OS VALORES EM SEGUNDOS A VARIÁVEL DO TIPO T VAI FAZER TODO A LÓGICA
+    time = hours * 60 * 60 + minutes * 60.
   ENDMETHOD.
 
 
