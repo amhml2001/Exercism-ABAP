@@ -13,7 +13,7 @@
 12. Grains **- Completed**
 13. Kindergarten Garden **- Completed**
 14. Clock **- Completed**
-15. Hamming
+15. Hamming **- Completed**
 16. Atbash Cipher
 17. Nth Prime
 18. Isogram
@@ -41,3 +41,8 @@
 40. Difference of Squares
 41. Triangle **- Completed**
 42. RNA Transcription **- Completed**
+43. Resistor Color Duo
+44. Resistor Color Trio
+45. Line Up
+46. Protein Translation
+47. Eliud's Eggs
